@@ -3,241 +3,241 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>/pt-pt/posts/post-lite-one/</loc>
+    <loc>https://cmsblog.pages.dev/pt-pt/posts/post-lite-one/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/posts/post-lite-one/"
+      href="https://cmsblog.pages.dev/posts/post-lite-one/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="/pt-pt/posts/post-lite-one/"
+      href="https://cmsblog.pages.dev/pt-pt/posts/post-lite-one/"
     />
   </url>
   <url>
-    <loc>/pt-pt/posts/post-lite-three/</loc>
+    <loc>https://cmsblog.pages.dev/pt-pt/posts/post-lite-three/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/posts/post-lite-three/"
+      href="https://cmsblog.pages.dev/posts/post-lite-three/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="/pt-pt/posts/post-lite-three/"
+      href="https://cmsblog.pages.dev/pt-pt/posts/post-lite-three/"
     />
   </url>
   <url>
-    <loc>/pt-pt/posts/post-lite-two/</loc>
+    <loc>https://cmsblog.pages.dev/pt-pt/posts/post-lite-two/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/posts/post-lite-two/"
+      href="https://cmsblog.pages.dev/posts/post-lite-two/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="/pt-pt/posts/post-lite-two/"
+      href="https://cmsblog.pages.dev/pt-pt/posts/post-lite-two/"
     />
   </url>
   <url>
-    <loc>/pt-pt/categories/blog/</loc>
+    <loc>https://cmsblog.pages.dev/pt-pt/categories/blog/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/categories/blog/"
+      href="https://cmsblog.pages.dev/categories/blog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="/pt-pt/categories/blog/"
+      href="https://cmsblog.pages.dev/pt-pt/categories/blog/"
     />
   </url>
   <url>
-    <loc>/pt-pt/categories/</loc>
+    <loc>https://cmsblog.pages.dev/pt-pt/categories/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/categories/"
+      href="https://cmsblog.pages.dev/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="/pt-pt/categories/"
+      href="https://cmsblog.pages.dev/pt-pt/categories/"
     />
   </url>
   <url>
-    <loc>/pt-pt/</loc>
+    <loc>https://cmsblog.pages.dev/pt-pt/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/"
+      href="https://cmsblog.pages.dev/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="/pt-pt/"
+      href="https://cmsblog.pages.dev/pt-pt/"
     />
   </url>
   <url>
-    <loc>/pt-pt/tags/ipsum/</loc>
+    <loc>https://cmsblog.pages.dev/pt-pt/tags/ipsum/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/tags/ipsum/"
+      href="https://cmsblog.pages.dev/tags/ipsum/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="/pt-pt/tags/ipsum/"
+      href="https://cmsblog.pages.dev/pt-pt/tags/ipsum/"
     />
   </url>
   <url>
-    <loc>/pt-pt/tags/lorem/</loc>
+    <loc>https://cmsblog.pages.dev/pt-pt/tags/lorem/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/tags/lorem/"
+      href="https://cmsblog.pages.dev/tags/lorem/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="/pt-pt/tags/lorem/"
+      href="https://cmsblog.pages.dev/pt-pt/tags/lorem/"
     />
   </url>
   <url>
-    <loc>/pt-pt/tags/post/</loc>
+    <loc>https://cmsblog.pages.dev/pt-pt/tags/post/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/tags/post/"
+      href="https://cmsblog.pages.dev/tags/post/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="/pt-pt/tags/post/"
+      href="https://cmsblog.pages.dev/pt-pt/tags/post/"
     />
   </url>
   <url>
-    <loc>/pt-pt/categories/post/</loc>
+    <loc>https://cmsblog.pages.dev/pt-pt/categories/post/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/categories/post/"
+      href="https://cmsblog.pages.dev/categories/post/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="/pt-pt/categories/post/"
+      href="https://cmsblog.pages.dev/pt-pt/categories/post/"
     />
   </url>
   <url>
-    <loc>/pt-pt/posts/</loc>
+    <loc>https://cmsblog.pages.dev/pt-pt/posts/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/posts/"
+      href="https://cmsblog.pages.dev/posts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="/pt-pt/posts/"
+      href="https://cmsblog.pages.dev/pt-pt/posts/"
     />
   </url>
   <url>
-    <loc>/pt-pt/tags/</loc>
+    <loc>https://cmsblog.pages.dev/pt-pt/tags/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/tags/"
+      href="https://cmsblog.pages.dev/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="/pt-pt/tags/"
+      href="https://cmsblog.pages.dev/pt-pt/tags/"
     />
   </url>
   <url>
-    <loc>/pt-pt/posts/post-lite-four/</loc>
+    <loc>https://cmsblog.pages.dev/pt-pt/posts/post-lite-four/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/posts/post-lite-four/"
+      href="https://cmsblog.pages.dev/posts/post-lite-four/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="/pt-pt/posts/post-lite-four/"
+      href="https://cmsblog.pages.dev/pt-pt/posts/post-lite-four/"
     />
   </url>
   <url>
-    <loc>/pt-pt/authors/</loc>
+    <loc>https://cmsblog.pages.dev/pt-pt/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/authors/"
+      href="https://cmsblog.pages.dev/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="/pt-pt/authors/"
+      href="https://cmsblog.pages.dev/pt-pt/authors/"
     />
   </url>
   <url>
-    <loc>/pt-pt/series/</loc>
+    <loc>https://cmsblog.pages.dev/pt-pt/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/series/"
+      href="https://cmsblog.pages.dev/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-PT"
-      href="/pt-pt/series/"
+      href="https://cmsblog.pages.dev/pt-pt/series/"
     />
   </url>
 </urlset>

@@ -4,8 +4,10 @@
     <title>Series on Gray Blowfish</title>
     <link>/pt-pt/series/</link>
     <description>Recent content in Series on Gray Blowfish</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>pt-PT</language>
+    <copyright>© 2024 Gray Blowfish</copyright>
     <atom:link href="/pt-pt/series/index.xml" rel="self" type="application/rss+xml" />
+    
   </channel>
 </rss>

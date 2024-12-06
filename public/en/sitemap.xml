@@ -1,228 +1,243 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
   <url>
     <loc>/categories/blog/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="/pt-pt/categories/blog/"
-                />
+      rel="alternate"
+      hreflang="pt-PT"
+      href="/pt-pt/categories/blog/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/blog/"
-                />
-  </url><url>
+      rel="alternate"
+      hreflang="en"
+      href="/categories/blog/"
+    />
+  </url>
+  <url>
     <loc>/categories/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="/pt-pt/categories/"
-                />
+      rel="alternate"
+      hreflang="pt-PT"
+      href="/pt-pt/categories/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
-  </url><url>
+      rel="alternate"
+      hreflang="en"
+      href="/categories/"
+    />
+  </url>
+  <url>
     <loc>/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="/pt-pt/"
-                />
+      rel="alternate"
+      hreflang="pt-PT"
+      href="/pt-pt/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-  </url><url>
+      rel="alternate"
+      hreflang="en"
+      href="/"
+    />
+  </url>
+  <url>
     <loc>/tags/ipsum/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="/pt-pt/tags/ipsum/"
-                />
+      rel="alternate"
+      hreflang="pt-PT"
+      href="/pt-pt/tags/ipsum/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/ipsum/"
-                />
-  </url><url>
+      rel="alternate"
+      hreflang="en"
+      href="/tags/ipsum/"
+    />
+  </url>
+  <url>
     <loc>/tags/lorem/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="/pt-pt/tags/lorem/"
-                />
+      rel="alternate"
+      hreflang="pt-PT"
+      href="/pt-pt/tags/lorem/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/lorem/"
-                />
-  </url><url>
+      rel="alternate"
+      hreflang="en"
+      href="/tags/lorem/"
+    />
+  </url>
+  <url>
     <loc>/tags/post/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="/pt-pt/tags/post/"
-                />
+      rel="alternate"
+      hreflang="pt-PT"
+      href="/pt-pt/tags/post/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/post/"
-                />
-  </url><url>
+      rel="alternate"
+      hreflang="en"
+      href="/tags/post/"
+    />
+  </url>
+  <url>
     <loc>/categories/post/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="/pt-pt/categories/post/"
-                />
+      rel="alternate"
+      hreflang="pt-PT"
+      href="/pt-pt/categories/post/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/post/"
-                />
-  </url><url>
+      rel="alternate"
+      hreflang="en"
+      href="/categories/post/"
+    />
+  </url>
+  <url>
     <loc>/posts/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="/pt-pt/posts/"
-                />
+      rel="alternate"
+      hreflang="pt-PT"
+      href="/pt-pt/posts/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/"
-                />
-  </url><url>
+      rel="alternate"
+      hreflang="en"
+      href="/posts/"
+    />
+  </url>
+  <url>
     <loc>/posts/post-lite-one/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="/pt-pt/posts/post-lite-one/"
-                />
+      rel="alternate"
+      hreflang="pt-PT"
+      href="/pt-pt/posts/post-lite-one/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/post-lite-one/"
-                />
-  </url><url>
+      rel="alternate"
+      hreflang="en"
+      href="/posts/post-lite-one/"
+    />
+  </url>
+  <url>
     <loc>/posts/post-lite-three/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="/pt-pt/posts/post-lite-three/"
-                />
+      rel="alternate"
+      hreflang="pt-PT"
+      href="/pt-pt/posts/post-lite-three/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/post-lite-three/"
-                />
-  </url><url>
+      rel="alternate"
+      hreflang="en"
+      href="/posts/post-lite-three/"
+    />
+  </url>
+  <url>
     <loc>/posts/post-lite-two/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="/pt-pt/posts/post-lite-two/"
-                />
+      rel="alternate"
+      hreflang="pt-PT"
+      href="/pt-pt/posts/post-lite-two/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/post-lite-two/"
-                />
-  </url><url>
+      rel="alternate"
+      hreflang="en"
+      href="/posts/post-lite-two/"
+    />
+  </url>
+  <url>
     <loc>/tags/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="/pt-pt/tags/"
-                />
+      rel="alternate"
+      hreflang="pt-PT"
+      href="/pt-pt/tags/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-  </url><url>
+      rel="alternate"
+      hreflang="en"
+      href="/tags/"
+    />
+  </url>
+  <url>
     <loc>/posts/post-lite-four/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="/pt-pt/posts/post-lite-four/"
-                />
+      rel="alternate"
+      hreflang="pt-PT"
+      href="/pt-pt/posts/post-lite-four/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/post-lite-four/"
-                />
-  </url><url>
+      rel="alternate"
+      hreflang="en"
+      href="/posts/post-lite-four/"
+    />
+  </url>
+  <url>
     <loc>/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="/pt-pt/authors/"
-                />
+      rel="alternate"
+      hreflang="pt-PT"
+      href="/pt-pt/authors/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/"
-                />
-  </url><url>
+      rel="alternate"
+      hreflang="en"
+      href="/authors/"
+    />
+  </url>
+  <url>
     <loc>/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="/pt-pt/series/"
-                />
+      rel="alternate"
+      hreflang="pt-PT"
+      href="/pt-pt/series/"
+    />
     <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/series/"
-                />
+      rel="alternate"
+      hreflang="en"
+      href="/series/"
+    />
   </url>
 </urlset>

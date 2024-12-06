@@ -4,7 +4,8 @@
   "description": "Blowfish Template",
   "main": "index.js",
   "scripts": {
-    "dev": "hugo server --minify -D -E -F"
+    "dev": "TINA_PUBLIC_IS_LOCAL=true tinacms dev -c \"hugo server --minify -D -E -F\"",
+    "build": "tinacms build && next build"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/nunocoracao/blowfish_template/issues"
   },
-  "homepage": "https://github.com/nunocoracao/blowfish_template#readme"
+  "homepage": "https://github.com/nunocoracao/blowfish_template#readme",
+  "dependencies": {
+    "tinacms": "^2.5.0"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.6.12",
+    "@types/node": "^22.10.1"
+  }
 }

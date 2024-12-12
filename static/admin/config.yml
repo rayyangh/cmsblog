@@ -6,6 +6,16 @@ backend:
   identity_url: https://auth.decapbridge.com/sites/127ad0e3-0e49-423b-a7d1-c2aff6fc15c2
   gateway_url: https://gateway.decapbridge.com
 
+# Configure DecapCMS (required)
+  media_folder: "static/images/uploads"
+  media_library:
+    name: uploads
+
+  collections:
+    - name: "nhs-service"
+      label: "Service"
+      folder: "content/ccg"
+
   # Quickly see who did what (optional)
   commit_messages:
     create: Create {{collection}} “{{slug}}” - {{author-name}} <{{author-login}}> via DecapBridge

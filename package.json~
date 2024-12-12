@@ -4,10 +4,6 @@
   "description": "Blowfish Template",
   "main": "index.js",
   "scripts": {
-    "dev": "tinacms dev -c \"hugo server -D\"",
-    "build": "tinacms build && hugo"
-  },
-  "scripts": {
     "dev": "TINA_PUBLIC_IS_LOCAL=true tinacms dev -c \"hugo server --minify -D -E -F\"",
     "build": "tinacms build && next build"
   },

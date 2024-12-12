@@ -5,6 +5,22 @@ backend:
   branch: main
   identity_url: https://auth.decapbridge.com/sites/127ad0e3-0e49-423b-a7d1-c2aff6fc15c2
   gateway_url: https://gateway.decapbridge.com
+media_folder: static/img
+public_folder: /img
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'content/blog'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
 
   # Quickly see who did what (optional)
   commit_messages:

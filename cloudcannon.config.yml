@@ -3,14 +3,6 @@ paths:
   uploads: static/uploads
   static: static
 collections_config:
-  content_pt_posts_post_lite_four:
-    path: content/pt/posts/post-lite-four
-    name: Content Pt Posts Post Lite Four
-    icon: content_paste_go
-    disable_url: false
-    disable_add: false
-    disable_add_folder: false
-    disable_file_actions: false
   content/en:
     path: content/en/posts
     glob:
